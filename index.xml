@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech Sharing</title>
+    <link>https://joannechanginnova.github.io/</link>
+    <description>Recent content on Tech Sharing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Jan 2023 01:15:29 +0100</lastBuildDate><atom:link href="https://joannechanginnova.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>temas</title>
+      <link>https://joannechanginnova.github.io/categoria/temas/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
+      
+      <guid>https://joannechanginnova.github.io/categoria/temas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sintaxe</title>
+      <link>https://joannechanginnova.github.io/categoria/sintaxe/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
+      
+      <guid>https://joannechanginnova.github.io/categoria/sintaxe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Códigos curtos</title>
+      <link>https://joannechanginnova.github.io/tags/shortcodes/</link>
+      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
+      
+      <guid>https://joannechanginnova.github.io/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mermaid JS support</title>
+      <link>https://joannechanginnova.github.io/posts/mermaid-support/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://joannechanginnova.github.io/posts/mermaid-support/</guid>
+      <description>If you want to use Mermaid-JS on your website. Provide mermaid as Shortcode in your markdown file.
+flowchart LR A --&gt; B B --&gt; C C --&gt; D D --&gt; B sequenceDiagram participant Alice participant Bob Alice-&gt;&gt;Bob: Hi Bob Bob-&gt;&gt;Alice: Hi Alice Find more example on Mermaid-JS website.</description>
+    </item>
+    
+    <item>
+      <title>HTML and CSS only tabs</title>
+      <link>https://joannechanginnova.github.io/posts/html-and-css-only-tabs/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://joannechanginnova.github.io/posts/html-and-css-only-tabs/</guid>
+      <description>Basic shortcodes Link to heading The following content:
+{{&amp;lt; tabgroup &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabgroup &amp;gt;}} Will generate:
+Hello Hello World! Goodbye Goodbye Everybody! Right alighment Link to heading You can also align the tabs to the right:
+{{&amp;lt; tabgroup align=&amp;#34;right&amp;#34; &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody!</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://joannechanginnova.github.io/posts/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://joannechanginnova.github.io/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Conteúdo Rico</title>
+      <link>https://joannechanginnova.github.io/posts/rich-content.pt-br/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://joannechanginnova.github.io/posts/rich-content.pt-br/</guid>
+      <description>&lt;p&gt;O Hugo vem com vários &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shortcodes Internos&lt;/a&gt; para conteúdo rico, assim como uma &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Configuração de Privacidade&lt;/a&gt; e uma gama de Shortcodes simples que permitem embutir versões estáticas e sem JS de várias de redes sociais.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://joannechanginnova.github.io/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://joannechanginnova.github.io/posts/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Static Site Generator</title>
+      <link>https://joannechanginnova.github.io/posts/static-site/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://joannechanginnova.github.io/posts/static-site/</guid>
+      <description> Static Site Generator Link to heading The HTML files aren’t generated dynamically,
+Hugo Link to heading </description>
+    </item>
+    
+    <item>
+      <title>More Rich Content</title>
+      <link>https://joannechanginnova.github.io/posts/more-rich-content/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://joannechanginnova.github.io/posts/more-rich-content/</guid>
+      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://joannechanginnova.github.io/posts/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://joannechanginnova.github.io/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://joannechanginnova.github.io/posts/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://joannechanginnova.github.io/posts/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://joannechanginnova.github.io/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://joannechanginnova.github.io/posts/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>External Page: Hugo Coder Wiki</title>
+      <link>https://joannechanginnova.github.io/posts/hugo-coder-wiki/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://joannechanginnova.github.io/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Página Externa: Wiki Hugo Coder</title>
+      <link>https://joannechanginnova.github.io/posts/hugo-coder-wiki/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://joannechanginnova.github.io/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Site Generator</title>
+      <link>https://joannechanginnova.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://joannechanginnova.github.io/about/</guid>
+      <description>There are no database queries to run, the HTML files aren’t generated dynamically.
+Advantages of static: Link to heading Speed Version control for content Disadvantages of static: Link to heading No real-time content (like a &amp;ldquo;recommended articles for you&amp;rdquo; kind of thing.) No user input The Top 6 Static Site Generators Link to heading Hugo Link to heading Written in Go, Hugo is an open source static site generator. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://joannechanginnova.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joannechanginnova.github.io/contact/</guid>
+      <description>Hosting for GitHub Pages Link to heading create a Github repository - user site: https://&amp;lt;username&amp;gt;.github.io/ - project sites: https://&amp;lt;username&amp;gt;.github.io/&amp;lt;repository&amp;gt; You can only create one user site for each account on GitHub. Project sites are unlimited.
+edit config.toml/yml: add baseURL
+upload files to repository:
+cd public git submodule add -f &amp;lt;repo-url&amp;gt; public git add . git branch -M main git commit -m &amp;#34;first commit&amp;#34; git push -u origin main start building Hosting for AWS S3 Link to heading create S3 bucket # add secret access key and region of your account (create one in Security Credentials) aws configure # create bucket aws s3 mb s3://bucket-name # check all buckets aws s3 ls enable static website hosting permission &amp;gt; edit bucket policy</description>
+    </item>
+    
+    <item>
+      <title>Example</title>
+      <link>https://joannechanginnova.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joannechanginnova.github.io/projects/</guid>
+      <description>Quick Start Link to heading installation &amp;amp; basic:
+Hugo Official Document
+Theme Link to heading pick one for your website:
+Hugo Themes
+Commands Link to heading create hugo directory structure
+hugo new site quickstart cd quickstart git init clone the theme into the /themes directory, adding it to your project as a Git submodule.
+git submodule add https://github.com/&amp;lt;theme-repo-url&amp;gt; themes/&amp;lt;theme-name&amp;gt; copy all files in example site to root directory
+cp -a themes/&amp;lt;theme-name&amp;gt;/exampleSite/.</description>
+    </item>
+    
+  </channel>
+</rss>
